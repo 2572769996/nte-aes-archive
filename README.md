@@ -10,7 +10,7 @@ ___
 
 | PAK(s) | AES Key                                                                | Operating System | Server | USMAP | NOTE |
 |:------:|------------------------------------------------------------------------|------------------|--------|-------|------|
-| Main | 0x1e17b8c688076277c200f2d6ec065e97035cc96e63ef1d5f9cf78513ca33f222 | Windows | CN | TBD | [Download Here](https://drive.google.com/drive/folders/1QOLoz1rqoWhQA5xt8EVs7UcRjUlQO2ks?usp=drive_link) |USES UE 5.4.4 |
+| Main | 0x1e17b8c688076277c200f2d6ec065e97035cc96e63ef1d5f9cf78513ca33f222 | Windows | CN | [Download Here](https://drive.google.com/drive/folders/1QOLoz1rqoWhQA5xt8EVs7UcRjUlQO2ks?usp=drive_link) |USES UE 5.4.4 |
 
 ## 1.0.13 (CB1)
 
